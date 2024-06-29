@@ -3,7 +3,7 @@ from pathlib import Path #Path is a class
 import logging
 #logging string (instead of printing everywhere)
 logging.basicConfig(level=logging.INFO,format='[%(asctime)s]:%(message)s:')#acsi time
-project_name='Kidney-Tumor-Classifier'
+project_name='KidneyTumorClassifier'
 list_of_files=[
     ".github/workflow/.gitkeep",#empty folder wont be commited in github
     f"src/{project_name}/__init__.py",

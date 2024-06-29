@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Kidney-Disease-Classification"
 AUTHOR_USER_NAME = "POOJITHA29CJ"
-SRC_REPO = "Kidney-Tumor-Classifier"
+SRC_REPO = "KidneyTumorClassifier"
 AUTHOR_EMAIL = "poojicj@gmail.com"
 
 
