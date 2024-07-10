@@ -34,7 +34,3 @@ for fp in list_of_files:
         logging.info(f"Creating empty file:{fp}")
     else:
         logging.info(f"{filename} is already exists")
-        
-    
-    
-

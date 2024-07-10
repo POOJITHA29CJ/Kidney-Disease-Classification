@@ -16,4 +16,4 @@ scipy
 Flask
 Flask-Cors
 gdown
--e .
+-e . # install folder as a local package
